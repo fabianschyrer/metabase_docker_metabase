@@ -1,2 +1,2 @@
 # Push Image to GCR
-docker push <DOCKER_REGISTRY>/metabase.docker:latest
+docker push fabianschyrer/metabase.docker:latest

@@ -10,4 +10,4 @@ docker run --publish 3000:3000 \
   --network="metabase-network" \
   --env-file=metabase-env.list \
   --detach \
-  <DOCKER_REGISTRY>/metabase.docker:latest
+  fabianschyrer/metabase.docker:latest
